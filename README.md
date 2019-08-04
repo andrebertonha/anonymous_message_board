@@ -14,5 +14,5 @@
 <p> 11 - I can report a reply and change it's reported value to true by sending a PUT request to /api/replies/{board} and pass along the thread_id & reply_id. (Text response will be 'success') </p>
 Complete functional tests that wholely test routes and pass.
 
-+ Clone this repository
-  + run node server.js
++ Project Link: https://glitch.com/~anonymous-msg-boarder-fcc-a
+  
